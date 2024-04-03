@@ -2,6 +2,10 @@
 
 This project is a web application developed using PHP, MySQL, and AJAX. It includes features such as authentication, validated contact forms, and session management. Below are the key components and functionalities of this project:
 
+![Screenshot (6220)](https://github.com/ro4i7/Members-only-Blog-Website/assets/88114930/41430560-1464-48c8-934f-0cc56ce638b7)
+
+
+
 ## Features:
 
 - **Database-Driven Blog**: Developed a dynamic blog where content is stored in a MySQL database, allowing for easy retrieval and management.
